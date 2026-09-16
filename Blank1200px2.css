@@ -1,0 +1,23 @@
+body {
+  background-color:#808080;
+}
+.star1 {
+  position: absolute;
+  animation: star1-ani 10s linear infinite;
+}
+
+@keyframes star1-ani {
+  0%   { opacity: .0; left:0; }
+  50%  { opacity: .5; }
+  100% { opacity: .0; left: 1000px; }
+}
+
+#Waymond {
+  width: 800px; 
+  height: 500px;
+  height: auto;} 
+
+  #Selfe {
+    width: 300px; 
+    height: 500px;
+    height: auto;} 
