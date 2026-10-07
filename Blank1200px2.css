@@ -1,0 +1,97 @@
+body {
+  background-color:#FFE5B4;
+ 
+}
+
+
+#Waymond {
+  width: 800px; 
+  height: 500px;
+  height: auto;} 
+
+  #Selfe {
+    width: 300px; 
+    height: 500px;
+    height: auto;} 
+
+    nav li a {
+      color: #ffffff;
+      display: block;
+      border: 1px solid #000000;
+      padding: 15px;
+      background-color: #ADD8E6;
+      width: 200px;
+      text-decoration: none;
+    }
+
+    #wrapper{
+      border: 5px solid #000000;
+      width: 1700px;
+     height: 2500px;
+     font-size: 30px;
+    }
+    
+    p{
+      width: 800px; 
+    }
+    #Evelyn {
+      width: 800px; 
+      height: 500px;
+      height: auto;} 
+
+      #main2{
+        padding-left: 50px;
+      }
+      #main1{
+        padding-right: 5px;
+        width: 800px; 
+        height: 500px;
+        height: auto;
+      }
+      #Joy{
+        width: 800px; 
+        height: 340px;
+        margin-top:100;
+        } 
+  
+        #wrapper2{
+          border: 5px solid #000000;
+          width: 1700px;
+         height: 5105px;
+         font-size: 30px;
+        }
+
+        #Joy2{
+          width: 800px; 
+          height: 340px;
+          padding-left: 800px;
+        
+          } 
+          
+        
+        #Joy3{
+        width: 700px;
+        margin-left: 800px;
+        margin-top: -220px;
+        padding-left: 40px;
+         } 
+
+         #Joy4{
+          margin-top: 100px;
+         }
+
+         
+         
+        
+      
+
+           #Joy5{
+            margin-top: 200px;
+           }
+
+           #wrapper3{
+            border: 5px solid #000000;
+            width: 1700px;
+           height: 700px;
+           font-size: 30px;
+          }
